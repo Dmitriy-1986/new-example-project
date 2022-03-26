@@ -1,6 +1,4 @@
 <?php
-date_default_timezone_set("Europe/Kiev");
-
 $servername = "sql205.hostronavt.ru";
 $username = "onavt_28931418";
 $password = "54321";
