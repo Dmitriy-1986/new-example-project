@@ -1,1 +1,1 @@
-example-project.pp.ua
+www.example-project.pp.ua
